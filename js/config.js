@@ -53,8 +53,8 @@ $(function() {
 
      // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
-      username: 'yourusername',
-      repo: 'yourrepo'
+      username: 'pezzell',
+      repo: 'pezzell'
     },
 
     // If Github mode is set, choose which Github branch to get files from.
